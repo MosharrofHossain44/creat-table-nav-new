@@ -1,0 +1,16 @@
+nav ul{
+    display: flex;
+    background-color: aquamarine;
+}
+nav li{
+    list-style: none;
+    margin: 20px;
+    padding: 10px;
+}
+
+nav li a{
+    text-decoration: none;
+}
+nav li:hover{
+    background-color: lightgray;
+}
